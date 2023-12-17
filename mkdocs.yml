@@ -1,13 +1,12 @@
-site_name: 项目配套文档
+site_name: OpenRASP-IAST
 site_url: https://github.com/G3G4X5X6/template-with-doc
 site_author: G3G4X5X6
 site_description: >-
-  站点描述: Create a branded static site from a set of Markdown files to host the
-  documentation of your Open Source or commercial project
+  站点描述: 交互式应用安全测试解决方案研究。
 
 # Repository
-repo_url: https://github.com/G3G4X5X6/template-with-doc
-repo_name: G3G4X5X6/template-with-doc
+repo_url: https://github.com/openrasp-iast/.github
+repo_name: openrasp-iast/.github
 edit_uri: edit/doc/docs/
 
 
