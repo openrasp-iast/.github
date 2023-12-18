@@ -11,7 +11,7 @@
 
 ## 2️⃣涉及组件框架
 ### 前端框架
-- [vue-element-plus-admin](https://github.com/kailong321200875/vue-element-plus-admin)
+- [Tabler](https://tabler.io/)
 
 ### 后端框架
 - [Django](https://www.djangoproject.com/)
