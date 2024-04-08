@@ -150,7 +150,7 @@ markdown_extensions:
 
 
 nav:
-  - Welcome to MkDocs: 
+  - OpenRASP-IAST: 
     - index.md
     - 支持特性: support.md
   - Section:
