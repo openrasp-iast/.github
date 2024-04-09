@@ -74,7 +74,7 @@ plugins:
       separator: '[\s\u200b\-]'
 
   - git-revision-date-localized:
-      enable_creation_date: false
+      enable_creation_date: true
       type: date
 
 
