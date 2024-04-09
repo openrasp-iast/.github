@@ -1,5 +1,5 @@
 site_name: OpenRASP-IAST
-site_url: https://github.com/G3G4X5X6/template-with-doc
+site_url: https://github.com/openrasp-iast
 site_author: G3G4X5X6
 site_description: >-
   站点描述: 交互式应用安全测试解决方案研究。
@@ -74,7 +74,7 @@ plugins:
       separator: '[\s\u200b\-]'
 
   - git-revision-date-localized:
-      enable_creation_date: true
+      enable_creation_date: false
       type: date
 
 
