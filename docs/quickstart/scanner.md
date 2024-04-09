@@ -1,5 +1,13 @@
 # iast-scanner
 
+主动扫描器
+
+## 快速开始
+
+```bash
+python iast_scanner/main.py start -f
+```
+
 ## 目录结构
 
 ```bash
@@ -152,10 +160,4 @@ database.username: root                               # 连接用户名
 database.password: ''                                 # 连接密码, 纯数字需使用引号包裹 如'123456'
 database.db_name: openrasp                            # 数据库名
 
-```
-
-## 快速开始
-
-```bash
-python iast_scanner/main.py start -f
 ```
