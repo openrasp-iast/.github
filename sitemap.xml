@@ -11,17 +11,22 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/openrasp-iast/section/</loc>
+         <loc>https://github.com/openrasp-iast/quickstart/</loc>
          <lastmod>2024-04-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/openrasp-iast/section/page-1/</loc>
+         <loc>https://github.com/openrasp-iast/quickstart/agent/</loc>
          <lastmod>2024-04-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/openrasp-iast/section/page-2/</loc>
+         <loc>https://github.com/openrasp-iast/quickstart/controller/</loc>
+         <lastmod>2024-04-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://github.com/openrasp-iast/quickstart/scanner/</loc>
          <lastmod>2024-04-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
