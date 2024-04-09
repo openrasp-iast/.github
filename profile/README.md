@@ -11,4 +11,4 @@
 
 #### OpenRASP-IAST 架构图
 
-![架构图](整体架构图.png)
+![整体架构图](https://github.com/openrasp-iast/.github/assets/87740076/2f453220-a7f9-4cc8-80a2-be7282d4e7b6)
