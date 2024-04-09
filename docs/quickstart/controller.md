@@ -6,11 +6,11 @@
 
 ```bash
 .
-├── doc
+├── doc                             # 文档
 │   ├── alert
 │   ├── demo
 │   └── images
-├── iast-vue
+├── iast-vue                        # 前端项目
 │   ├── public
 │   └── src
 │       ├── assets
@@ -26,7 +26,7 @@
 │       ├── util
 │       └── views
 │           └── layout
-├── icloud
+├── icloud                          # 后端项目
 │   ├── agent
 │   │   ├── migrations
 │   │   ├── routers
