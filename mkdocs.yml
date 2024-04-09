@@ -145,7 +145,7 @@ nav:
   - OpenRASP-IAST:
       - index.md
       - 支持特性: support.md
-  - Quickstart:
+  - 新手指南:
       - quickstart/index.md
       - iast-controller: quickstart/controller.md
       - iast-agent-java: quickstart/agent.md
