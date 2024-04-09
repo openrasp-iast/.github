@@ -7,7 +7,7 @@
 - [x] 支持编写 Python 扫描插件 (iast-scanner)
 - [x] <del>支持软件成分风险评估 (iast-controller)</del>
 
-## 已去除特性
+## 移除特性
 
 - [x] <del>不支持 JDK8 以下</del>
 
