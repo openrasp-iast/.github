@@ -5,14 +5,24 @@
 
 # 测试环境搭建
 
-!!! example "前提条件"
-
-    1. Java 应用 JDK 8+
-    2. Python 3.8+
-    3. MySQL 5.5.3，或者更高版本
-
 ## 云控平台：iast-controller
+
+!!! warning "前提条件"
+
+    1. Python 3.11+
 
 ## 应用探针：iast-agent-java
 
+!!! warning "前提条件"
+
+    1. 8+ < JDK < 17
+
 ## 主动扫描器：iast-scanner
+
+!!! warning "前提条件"
+
+    1. 云控平台
+    2. Python 3.6 或者更高版本
+    3. MySQL 5.5.3，或者更高版本
+
+    > 仅支持 Linux / macOS 运行
