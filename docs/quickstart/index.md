@@ -15,8 +15,8 @@
 
 !!! warning "前提条件"
 
-    1. Oracle JDK 6~15
-    2. OpenJDK 6~11
+    1. Oracle JDK 8~15
+    2. OpenJDK 8~11
 
 ## 主动扫描器：iast-scanner
 
