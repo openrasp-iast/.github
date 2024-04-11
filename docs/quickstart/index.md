@@ -15,13 +15,14 @@
 
 !!! warning "前提条件"
 
-    1. 8+ < JDK < 17
+    1. Oracle JDK 6~15
+    2. OpenJDK 6~11
 
 ## 主动扫描器：iast-scanner
 
 !!! warning "前提条件"
 
-    1. 云控平台
+    1. 云控平台，并至少有一台在线主机
     2. Python 3.6 或者更高版本
     3. MySQL 5.5.3，或者更高版本
 
