@@ -152,3 +152,6 @@ nav:
       - iast-scanner: quickstart/scanner.md
   - 参考文档:
       - reference/index.md
+  - 项目博客:
+      - blog/index.md
+      - OpenRASP 初步探索改造: blog/20240412-rasp2iast.md
