@@ -2,47 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://github.com/openrasp-iast/</loc>
-         <lastmod>2024-04-12</lastmod>
+         <lastmod>2024-07-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/openrasp-iast/support/</loc>
-         <lastmod>2024-04-12</lastmod>
+         <lastmod>2024-07-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/openrasp-iast/blog/</loc>
-         <lastmod>2024-04-12</lastmod>
+         <lastmod>2024-07-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/openrasp-iast/blog/20240412-rasp2iast/</loc>
-         <lastmod>2024-04-12</lastmod>
+         <lastmod>2024-07-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/openrasp-iast/quickstart/</loc>
-         <lastmod>2024-04-12</lastmod>
+         <lastmod>2024-07-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/openrasp-iast/quickstart/agent/</loc>
-         <lastmod>2024-04-12</lastmod>
+         <lastmod>2024-07-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/openrasp-iast/quickstart/controller/</loc>
-         <lastmod>2024-04-12</lastmod>
+         <lastmod>2024-07-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/openrasp-iast/quickstart/scanner/</loc>
-         <lastmod>2024-04-12</lastmod>
+         <lastmod>2024-07-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/openrasp-iast/reference/</loc>
-         <lastmod>2024-04-12</lastmod>
+         <lastmod>2024-07-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
