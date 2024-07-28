@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 !!! tip "OpenRASP-IAST"
 
     1. 初步研究方向：基于 `baidu/openrasp` 项目进行探索、研究和改造。

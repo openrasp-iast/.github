@@ -68,21 +68,22 @@ plugins:
   - search:
       separator: '[\s\u200b\-]'
 
-  - git-revision-date-localized:
-      enable_creation_date: false
-      type: date
-
-  - git-committers:
-      enabled: true
-      repository: openrasp-iast/.github
-      branch: main
-
-  - git-authors
-
   - minify:
       minify_html: true
       minify_js: true
       minify_css: true
+
+  - git-revision-date-localized:
+      type: datetime
+      timezone: Asia/Shanghai
+      enable_creation_date: true
+      exclude:
+        - comments.md
+
+  - git-committers:
+      enabled: true
+      repository: G3G4X5X6/knowledge-base
+      branch: main
 
 # Customization
 extra:
